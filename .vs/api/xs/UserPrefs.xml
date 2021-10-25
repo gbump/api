@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{6B5655E1-B351-46F4-9BF2-DA18DB2121C7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="api/Models/Planner.cs">
+    <Files>
+      <File FileName="api/Models/Planner.cs" Line="14" Column="1" />
+      <File FileName="api/Services/PlannerService.cs" />
+      <File FileName="api/Controllers/PlannerController.cs" />
+      <File FileName="api/Models/ToDoContext.cs" />
+      <File FileName="api/Startup.cs" />
+      <File FileName="api/Program.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
